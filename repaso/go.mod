@@ -1,3 +1,3 @@
-module main
+module primos
 
 go 1.20
